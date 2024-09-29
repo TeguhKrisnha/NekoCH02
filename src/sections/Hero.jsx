@@ -45,10 +45,10 @@ function Hero() {
           <a href="https://twitter.com/nekoch02" target="_blank">
             <img src={twitterIcon} alt="Twitter icon" />
           </a>
-          <a href="https://github.com/nekoch02" target="_blank">
+          <a href="https://github.com/TeguhKrisnha" target="_blank">
             <img src={githubIcon} alt="Github icon" />
           </a>
-          <a href="https://linkedin.com/nekoch02" target="_blank">
+          <a href="https://linkedin.com/TeguhKrisnha" target="_blank">
             <img src={linkedinIcon} alt="Linkedin icon" />
           </a>
         </span>
